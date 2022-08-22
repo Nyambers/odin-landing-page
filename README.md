@@ -7,4 +7,5 @@ Two images were provided: one is the image of the complete website, and one has 
 This assignment allows me to test the skills I have learned in CSS, importantly the box model and flex containers.
 
 Credits:
-1. 
+1. Logo Picture: https://twitter.com/XanaduAvici
+2. 
